@@ -1,0 +1,7 @@
+errorScreenshots
+/.settings
+/.classpath
+/Selenium Script Recorder
+/test-output
+/bin/com
+/commandLine.cmd
